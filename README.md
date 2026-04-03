@@ -12,3 +12,7 @@ This is a quick idea that came to my head recently. I've been dealing more and m
 # How to Maintain
 
 There is a skill in the .claude/ directory that you can point an AI agent to. I used this to create each article.
+
+---
+
+![](https://html-to-image-eta.vercel.app/template?template=https://gitlab.com/delta1512/deltadelta.dev/-/raw/main/badges/ai-transparency.njk&width=400&height=300&scale=4&c1=Website+Code&l1=ai&c2=Page+Content&l2=ai&c3=This+README&l3=human&c4=This+Badge&l4=ai)
