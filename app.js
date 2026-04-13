@@ -1,6 +1,7 @@
 const routes = {
   '/':               'content/home.md',
   '/r2':             'content/r2.md',
+  '/containers':     'content/containers.md',
   '/workers':        'content/workers.md',
   '/pages':          'content/pages.md',
   '/d1':             'content/d1.md',
